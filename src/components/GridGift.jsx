@@ -1,6 +1,3 @@
-import React from 'react'
-
-
 import { ListGridGift } from './ListGiftGrid';
 import {useFetchGifs} from '.././Hooks/useFetchGifs'
 

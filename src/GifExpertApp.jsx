@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from 'react';
-import { AddCategory, GridGift } from '../src/components';
+import { AddCategory, GridGift } from './components';
 
 
 export const GifExpertApp = () => {
